@@ -21,7 +21,7 @@ p,h1 {
 
 .main-background {
     width: 100%;
-    min-width:600px;
+    min-width: 490px;
     height: 600px;
     padding: 1px;
     background-image: linear-gradient(to bottom, red,orange,green,blue,indigo,violet);    
