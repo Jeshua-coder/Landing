@@ -20,9 +20,9 @@ p,h1 {
 }
 
 .main-background {
-    
-    width: 1300px;
-    max-width: 1300px;
+    width: 100%
+    width: 1200px;
+    max-width: 1200px;
     height: 600px;
     padding: 1px;
     background-image: linear-gradient(to bottom, red,orange,green,blue,indigo,violet);    
@@ -91,6 +91,7 @@ button:hover {
 .services-background {
     background-color: cornflowerblue;
     width: 100%;
+    max-width: 1200px;
     height: 100%;
     padding: 30px;
     height: auto;
