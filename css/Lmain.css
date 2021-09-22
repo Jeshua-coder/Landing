@@ -90,7 +90,7 @@ button:hover {
 .services-background {
     background-color: cornflowerblue;
     width: 100%;
-    max-width: 1200px;
+    min-width: 4500px;
     height: 100%;
     padding: 30px;
     height: auto;
@@ -144,7 +144,7 @@ button:hover {
 }
 
 .portfolio-items {
-    width: 40%;
+    width: 45%;
     min-width: 450px;
     height: 460px;
     background-size: cover;
